@@ -1,0 +1,13 @@
+#background{
+    background-color: #2E8B57;
+}
+
+.container{
+    background-color: #D2B48C;
+    width: 960px;
+    margin: auto;
+}
+
+header, footer{
+    background-color: #d3d3d3;
+}
