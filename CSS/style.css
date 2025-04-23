@@ -6,8 +6,15 @@
     background-color: #D2B48C;
     width: 960px;
     margin: auto;
+    
 }
 
 header, footer{
     background-color: #d3d3d3;
+}
+
+header, nav, section, footer{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-inline: 15px;
 }
